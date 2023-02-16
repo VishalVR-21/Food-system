@@ -62,9 +62,7 @@ admin.post('/login',async(req,res)=>
             {
                 console.log("password are correct");
                 var signin= jwt.sign(email,SECRET_KEY);
-                res.cookie('cookie',email);
             }
-
         }
         else
         {

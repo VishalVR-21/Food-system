@@ -1,16 +1,41 @@
-# delvivery
+# Food system 
+This is food application built with flutter as frontend and nodejs as backend.
 
-A new Flutter project.
+This works with both client side and server side.
 
-## Getting Started
+<h1> <b>Client side </b> </h1>
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/VishalVR-21/Food-system/blob/master/Screenshot_20230225-082333.png" alt="Girl in a jacket" width="500" height="600">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1>Home section </h1>
+<img src="" alt="Girl in a jacket" width="500" height="600">
+<h1> Cart section section </h1>
+<img src="https://github.com/VishalVR-21/Food-system/blob/master/Screenshot_20230225-124411.png" alt="Girl in a jacket" width="500" height="600">
+<h1> Profile section </h1>
+<img src="https://github.com/VishalVR-21/Food-system/blob/master/Screenshot_20230225-082338.png" alt="Girl in a jacket" width="500" height="600">
+<h1> Setting section </h1>
+<img src="https://github.com/VishalVR-21/Food-system/blob/master/Screenshot_20230225-124424.png" alt="Girl in a jacket" width="500" height="600">
+<h1> Menu and food selection</h1>
+<img src="https://github.com/VishalVR-21/Food-system/blob/master/Screenshot_20230225-124431.png" alt="Girl in a jacket" width="500" height="600">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The server side front end is still in development
+ 
+To run the application 
+
+<ol>
+  <li>Clone the repo</li>
+  <li>flutter run in the main directory</li>
+<li>Cd backend</li>
+  <li> 
+Npm init</li>
+<li>Npm install</li>
+  <li>Node index.js</li>
+</ol>
+
+
+Clone the repo.
+ 
+ 
+
+

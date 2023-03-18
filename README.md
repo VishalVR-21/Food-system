@@ -5,11 +5,10 @@ This works with both client side and server side.
 
 <h1> <b>Client side </b> </h1>
 
-<img src="https://github.com/VishalVR-21/Food-system/blob/master/Screenshot_20230225-082333.png" alt="Girl in a jacket" width="500" height="600">
 
 
 <h1>Home section </h1>
-<img src="" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/VishalVR-21/Food-system/blob/master/Screenshot_20230225-082333.png" alt="Girl in a jacket" width="500" height="600">
 <h1> Cart section section </h1>
 <img src="https://github.com/VishalVR-21/Food-system/blob/master/Screenshot_20230225-124411.png" alt="Girl in a jacket" width="500" height="600">
 <h1> Profile section </h1>
